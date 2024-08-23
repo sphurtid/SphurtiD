@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, learning new skills, drawing & gaming.
 - 🌱 I’m currently learning python & machine learning.
 - 💞️ I’m looking to collaborate on various projects.
-- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/sphurti-dixit-b430132b0/
+- 📫 How to reach me sphurtirdixit09@gmail.com
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I love solving rubik's cubes.
 
