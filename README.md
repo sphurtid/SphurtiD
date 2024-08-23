@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SphurtiD.
+- 👋 Hi, I’m Sphurti Dixit.
 - 👀 I’m interested in coding, learning new skills, drawing & gaming.
 - 🌱 I’m currently learning python & machine learning.
 - 💞️ I’m looking to collaborate on various projects.
